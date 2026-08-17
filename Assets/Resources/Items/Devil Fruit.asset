@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 590a77ac18310cb49b1ae3617ecba6e7, type: 3}
+  m_Name: Devil Fruit
+  m_EditorClassIdentifier: Assembly-CSharp::ItemData
+  id: Devil Fruit
+  displayName: Devil Fruit
+  description: qqqqqqq
+  type: 5
+  icon: {fileID: 8555668886070539820, guid: b8b698b8638228243859dc5f5d77e070, type: 3}
+  dropPrefab: {fileID: 0}
+  canStack: 1
+  maxStackAmount: 1000
+  statsOfItem:
+  - type: 7
+    value: 50
+  buyPrice: 0

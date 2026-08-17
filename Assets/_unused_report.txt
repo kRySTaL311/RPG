@@ -1,0 +1,67 @@
+Total deletable candidate files: 22
+
+=== By top-level folder (excluding TMP shaders/fonts/scripts) ===
+    9  TextMesh Pro
+
+=== UNUSED SCRIPTS (9) — reported only, NOT deleted ===
+  Input/ACTION.cs
+  Scripts/AudioManager.cs
+  Scripts/Characters/Character.cs
+  Scripts/CharacterSaveManager.cs
+  Scripts/DialogTrigger.cs
+  Scripts/DoorExit.cs
+  Scripts/Enemy.cs
+  Scripts/Pickup.cs
+  Scripts/QuestGiver.cs
+
+=== TMP Shaders unreferenced (12) — suggest KEEP (package assets) ===
+  TextMesh Pro/Shaders/TMP_Bitmap-Custom-Atlas.shader
+  TextMesh Pro/Shaders/TMP_Bitmap-Mobile.shader
+  TextMesh Pro/Shaders/TMP_Bitmap.shader
+  TextMesh Pro/Shaders/TMP_SDF Overlay.shader
+  TextMesh Pro/Shaders/TMP_SDF SSD.shader
+  TextMesh Pro/Shaders/TMP_SDF-Mobile Masking.shader
+  TextMesh Pro/Shaders/TMP_SDF-Mobile Overlay.shader
+  TextMesh Pro/Shaders/TMP_SDF-Mobile SSD.shader
+  TextMesh Pro/Shaders/TMP_SDF-Mobile-2-Pass.shader
+  TextMesh Pro/Shaders/TMP_SDF-Surface-Mobile.shader
+  TextMesh Pro/Shaders/TMP_SDF-Surface.shader
+  TextMesh Pro/Shaders/TMP_Sprite.shader
+
+=== TMP Fonts/LiberationSans unreferenced (1) ===
+  TextMesh Pro/Fonts/LiberationSans - OFL.txt
+
+=== Non-pack small-folder candidates (detail) ===
+  TextMesh Pro/Shaders/SDFFunctions.hlsl
+  TextMesh Pro/Shaders/TMPro.cginc
+  TextMesh Pro/Shaders/TMPro_Mobile.cginc
+  TextMesh Pro/Shaders/TMPro_Properties.cginc
+  TextMesh Pro/Shaders/TMPro_Surface.cginc
+  TextMesh Pro/Shaders/TMP_SDF-HDRP LIT.shadergraph
+  TextMesh Pro/Shaders/TMP_SDF-HDRP UNLIT.shadergraph
+  TextMesh Pro/Shaders/TMP_SDF-URP Lit.shadergraph
+  TextMesh Pro/Shaders/TMP_SDF-URP Unlit.shadergraph
+
+=== FULL LIST ===
+TextMesh Pro/Fonts/LiberationSans - OFL.txt
+TextMesh Pro/Shaders/SDFFunctions.hlsl
+TextMesh Pro/Shaders/TMPro.cginc
+TextMesh Pro/Shaders/TMPro_Mobile.cginc
+TextMesh Pro/Shaders/TMPro_Properties.cginc
+TextMesh Pro/Shaders/TMPro_Surface.cginc
+TextMesh Pro/Shaders/TMP_Bitmap-Custom-Atlas.shader
+TextMesh Pro/Shaders/TMP_Bitmap-Mobile.shader
+TextMesh Pro/Shaders/TMP_Bitmap.shader
+TextMesh Pro/Shaders/TMP_SDF Overlay.shader
+TextMesh Pro/Shaders/TMP_SDF SSD.shader
+TextMesh Pro/Shaders/TMP_SDF-HDRP LIT.shadergraph
+TextMesh Pro/Shaders/TMP_SDF-HDRP UNLIT.shadergraph
+TextMesh Pro/Shaders/TMP_SDF-Mobile Masking.shader
+TextMesh Pro/Shaders/TMP_SDF-Mobile Overlay.shader
+TextMesh Pro/Shaders/TMP_SDF-Mobile SSD.shader
+TextMesh Pro/Shaders/TMP_SDF-Mobile-2-Pass.shader
+TextMesh Pro/Shaders/TMP_SDF-Surface-Mobile.shader
+TextMesh Pro/Shaders/TMP_SDF-Surface.shader
+TextMesh Pro/Shaders/TMP_SDF-URP Lit.shadergraph
+TextMesh Pro/Shaders/TMP_SDF-URP Unlit.shadergraph
+TextMesh Pro/Shaders/TMP_Sprite.shader

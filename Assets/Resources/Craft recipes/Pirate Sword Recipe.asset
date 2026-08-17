@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac025ca19c076c546b9706feb4d3fb11, type: 3}
+  m_Name: Pirate Sword Recipe
+  m_EditorClassIdentifier: Assembly-CSharp::CraftingRecipe
+  itemToCraft: {fileID: 11400000, guid: da3b66abf8d760545994031da6349c58, type: 2}
+  costs:
+  - item: {fileID: 11400000, guid: f14698cc4008fbd46940f8b683068902, type: 2}
+    quantity: 4

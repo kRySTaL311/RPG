@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 28b98c0de4d09634b899b513f7267576, type: 3}
+  m_Name: NPC2
+  m_EditorClassIdentifier: Assembly-CSharp::CharacterData
+  characterPrefab: {fileID: 5005424674381867130, guid: a6c343c5f473409438a75c5e98b918a8, type: 3}
+  characterName: NPC2
+  level: 1
+  currentExp: 0
+  expToNextLevel: 50
+  baseHealth: 40
+  baseMaxHealth: 40
+  baseAttackPower: 20
+  baseDefencePower: 5
+  baseMaxMana: 30
+  baseMana: 30
+  BaseCriticalChance: 0.1
+  BaseCriticalMultiplier: 2
+  BasePoisonDamage: 0

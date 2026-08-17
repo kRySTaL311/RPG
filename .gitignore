@@ -1,0 +1,48 @@
+# ========== Unity 生成的缓存/临时目录 ==========
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+
+# ========== IDE / 编辑器文件 ==========
+/.vs/
+.vs/
+*.csproj
+*.unityproj
+*.sln
+*.slnx
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# ========== 平台构建产物 ==========
+*.apk
+*.aab
+*.unitypackage
+crashlytics-build.properties
+sysinfo.txt
+
+# ========== Mac 归档垃圾（AppleDouble 元数据） ==========
+__MACOSX/
+__MACOSX.meta
+.DS_Store
+._*
+
+# ========== 项目内备份 / 移走的文件（不提交） ==========
+_deleted_unused_20260817/
+_code_backup_20260817/
+_blank_backup_20260817/
+_font_backup_20260817/
+_unused_backup_20260811/
